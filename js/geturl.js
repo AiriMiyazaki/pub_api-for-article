@@ -1,7 +1,7 @@
 // TODO: javascriptのリンターツール導入 
 const fetchForm = document.querySelector('.fetchForm');
 const btn = document.querySelector('.btn');
-const endpoint = 'https://tanukitune.appspot.com'
+const endpoint = 'https://apiforarticle-upkpkxdewq-an.a.run.app'
 const url = document.getElementById('url').value;
 const body = {
     'url': url 
